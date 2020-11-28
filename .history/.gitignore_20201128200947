@@ -1,0 +1,9 @@
+/SharingApp/*.iml
+/SharingApp/.gradle
+/SharingApp/local.properties
+/SharingApp/.idea/workspace.xml
+/SharingApp/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
