@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Nov 29 23:17:44 BDT 2020
+0.baseType=DIRECTORY
+0.base=/run/media/ornob/Software/GitHub/Object_Oriented_Design-Coursera/SharingApp/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

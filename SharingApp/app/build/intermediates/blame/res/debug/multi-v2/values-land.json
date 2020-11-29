@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/run/media/ornob/Software/GitHub/Object_Oriented_Design-Coursera/SharingApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/ornob/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/04cbedaef0bb66eeb711e8c9a30c2ff1/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/ornob/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/047c307bf2ef296da711633be3ee2c63/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        }
+    ]
+}

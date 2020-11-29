@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/run/media/ornob/Software/GitHub/Object_Oriented_Design-Coursera/SharingApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/ornob/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/04cbedaef0bb66eeb711e8c9a30c2ff1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
